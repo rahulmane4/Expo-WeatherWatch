@@ -1,4 +1,4 @@
-# 🌩️ Weather Watch [EXPO CLI]
+# 🌩️ Weather Watch
 
 Introducing *Weather Watch*, the app that delivers accurate weather forecasts, ensuring you’re always prepared for the day’s weather with a smile!
 
@@ -48,4 +48,3 @@ Create a mobile application using React Native that encompasses the following:
 Submit a link to your forked repository with your application contents. Make sure the link is accessible.
 
 **Happy Coding**
-
