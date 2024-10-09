@@ -1,4 +1,12 @@
+# Screenshots
+
+ 
+
+<img width="328" alt="WeatherApp_Running_Screen" src="RahulMane_expo_Testing_Result.png">
+
+
 # 🌩️ Weather Watch
+
 
 Introducing *Weather Watch*, the app that delivers accurate weather forecasts, ensuring you’re always prepared for the day’s weather with a smile!
 
